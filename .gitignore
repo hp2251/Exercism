@@ -42,3 +42,4 @@ gradle-app.setting
 
 .vscode
 build/
+.exercism
