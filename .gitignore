@@ -43,3 +43,6 @@ gradle-app.setting
 .vscode
 build/
 .exercism
+venv/
+__pycache__/
+.pytest_cache/
